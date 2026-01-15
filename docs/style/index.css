@@ -1,0 +1,11 @@
+.micropene {
+    width: 200px;
+    height: 100px;
+}
+
+.ajonjoli{
+    display: grid;
+    align-items: center;
+    width: 466px;
+    height: 250px;
+}
